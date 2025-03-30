@@ -26,6 +26,10 @@ The following video demonstrates how to control a **servo** using a **potentiome
 
 {% include video_embed.html video_id="rfaN7I_fsaQ" %}
 
+{% raw %}
+<iframe loading="lazy" src="https://app.protobject.com/generate?zz-arduinoservo&amp;en&amp;dynamic&amp;-0" width="100%" height="250px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+{% endraw %}
+
 ## **ProtoRobot**  
 
 Another device within Protobject is called **ProtoRobot**. This device allows you to control a **3D-printed robot**, and, like everything in Protobject, it operates through a smartphone installed directly on the robot. ProtoRobot utilizes an **Arduino Leonardo** to control two servos that enable its movement.  
@@ -38,8 +42,10 @@ Below, there’s a video and the code for an example of using ProtoRobot, which 
 {% include video_embed.html video_id="dmJY-3cZqfU" %}
 
 {% raw %}
-<iframe loading="lazy" src="https://app.protobject.com/generate?zz-arduinoservo&amp;en&amp;dynamic&amp;-0" width="100%" height="250px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+<iframe loading="lazy" src="https://app.protobject.com/generate?zz-robot2&amp;en&amp;static&amp;-0" width="100%" height="450px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
 {% endraw %}
+
+
 
 ## **Components**  
 

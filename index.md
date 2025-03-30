@@ -91,6 +91,9 @@ How to apply **PBL (Project-based learning)** in the classroom with Protobject.
 - **📄 [Example of PBL with Protobject](https://docs.google.com/document/d/1L-tRl_mMC4lMXGPshoDNga3AtHsR6lQzBDKDRny15W8/view){:target="_blank"}**  
   _3 examples to guide you in developing PBL._  
 
+- **📄 [Model Planning for Project-Based Learning](https://docs.google.com/document/d/1hLcigIkzlKjlyQu4swVHkdNUBXbgKZduFn8UppCG5yk/view){:target="_blank"}**  
+  _A framework to help structure your PBL ideas._
+
 ---
 
 ## **7\. Summative and formative evaluation**  

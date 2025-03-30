@@ -14,10 +14,17 @@ This course is designed to introduce participants to computational thinking thro
 
 Explore the foundations of computational thinking and how Protobject facilitates its teaching.
 
-**🎥[What is computational thinking?](https://youtu.be/9Z_KCiG3Bug)** – Explanation of the fundamentals.  
-**📄[Computational Thinking](https://docs.google.com/document/d/1MG8MiY9qbPEDj78Y-JF3gJ127nbPpPrZ0E9yGIvZqhI/view)** – Importance of computational thinking in the 21st century.  
-**🎥[What is Protobject?](https://youtu.be/FQSB5xwQbNg)** – (Spanish) Introduction to the platform.  
-**📄[The Protobject platform](https://docs.google.com/document/d/1UX0LgJSqTixAZj-8EPxnkwxHk7AjeSTgpEYgwSlgyVY/view)** – Application in educational environments.
+- **🎥 [What is computational thinking?](https://youtu.be/9Z_KCiG3Bug)**  
+  _Explanation of the fundamentals._  
+
+- **📄 [Computational Thinking](https://docs.google.com/document/d/1MG8MiY9qbPEDj78Y-JF3gJ127nbPpPrZ0E9yGIvZqhI/view)**  
+  _Importance of computational thinking in the 21st century._  
+
+- **🎥 [What is Protobject?](https://youtu.be/FQSB5xwQbNg)** _(Spanish)_  
+  _Introduction to the platform._  
+
+- **📄 [The Protobject platform](https://docs.google.com/document/d/1UX0LgJSqTixAZj-8EPxnkwxHk7AjeSTgpEYgwSlgyVY/view)**  
+  _Application in educational environments._  
 
 ## **2\. Knowledge of sensors and actuators in smartphones**
 
@@ -31,30 +38,17 @@ Discover how sensors and actuators allow interaction with the environment.
 Learn basic programming concepts applied to Protobject.
 
 **🎥[Programming basics](https://youtu.be/jNOGzcFMqwQ)** – Introduction with examples.  
-**🎥[Program with Protobject](https://youtu.be/38THubZAF08)** – (Spanish) First steps.  
-**🎥[Traffic lights for vehicles and pedestrians](https://youtu.be/yZTQ_z-k_74)** – (Spanish) Use of cycles.  
-**🎥[Traffic light for the blind](https://youtu.be/9EMTeA2pO6A)** – (Spanish) Advanced application of cycles.  
-**🎥[Motion sensor alarm](https://youtu.be/emDOZEkmFZM)** – (Spanish) Use of conditionals.  
-**🎥[Stopwatch](https://youtu.be/O7U82d9QVxQ)** – (Spanish) Integration of loops and conditionals.  
-**📄[Recommended additional activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view)** – Learn more about Protobject.
+**📄[Recommended activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view)** – Learn more with Protobject.
 
-## **4\. Advanced programming**
 
-Explore the use of conditionals, events, and more complex data structures.
-
-**🎥[People counter](https://youtu.be/iRyriJA1urY)** – (Spanish) Use of conditionals and events.  
-**🎥[Tilt sensor](https://youtu.be/BLA-hO4rYvQ)** – (Spanish) Advanced loops and conditionals.  
-**🎥[Noise viewer](https://youtu.be/w1yna8IlaKo)** – (Spanish) Use of lists and histograms.  
-**📄[Recommended additional activities](https://docs.google.com/document/d/1868rjReHp25JGl-3h7d7BTAFFpshCvc1V5tKjoUu784/view)** – Learn more with Protobject.
-
-## **5\. Designing learning activities**
+## **4\. Designing learning activities**
 
 Criteria and strategies for designing effective activities with Protobject.
 
 **🎥[How to design learning activities?](https://youtu.be/MAXCtU3rH0M)** – Criteria and recommendations.  
 **📄[Structure and design of project activities](https://docs.google.com/document/d/1hq_KKXhBOAgpyXMWpM3Q1tEkq78Wzfy-rI3XJi1hye4/view)** – Guidelines for designing and using ChatGPT.
 
-## **6\. Project-based learning**
+## **5\. Project-based learning**
 
 How to apply PBL (Project-based learning) in the classroom with Protobject.
 
@@ -64,7 +58,7 @@ How to apply PBL (Project-based learning) in the classroom with Protobject.
 **📄[Promote creative solutions in the classroom](https://docs.google.com/document/d/1L5DcmgAGwwWLyzUKG-4jhdk7lqN0JqXdvBC3xWctxAY/view)** – A guide to promoting creativity.  
 **📄[Example of ABP with Protobject](https://docs.google.com/document/d/1L-tRl_mMC4lMXGPshoDNga3AtHsR6lQzBDKDRny15W8/view)** – 3 examples to guide you in developing PBL.
 
-## **7\. Summative and formative evaluation**
+## **6\. Summative and formative evaluation**
 
 Importance and strategies for evaluating learning.
 

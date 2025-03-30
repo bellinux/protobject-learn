@@ -1,4 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-title: InfoVis PUC
-description: La pagina web del curso de InfoVis PUC
+title: Learn Protobject
+description: Materials, videos, documents, and more to help you learn Protobject.
 logo: "/assets/images/logo.svg"
+search_enabled: false

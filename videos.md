@@ -13,7 +13,7 @@ Explore our curated playlists designed to help you use Protobject to teach compu
 ---
 
 
-{% include video_embed.html preview_video_id="SaZ4_BbYDUQ" playlist_link="https://www.youtube.com/watch?v=SaZ4_BbYDUQ&list=PLudqmkJ6JIlXS4CjSzHMXkKf01thbJT0B" %}
+{% include playlist_embed.html preview_video_id="SaZ4_BbYDUQ" playlist_link="https://www.youtube.com/watch?v=SaZ4_BbYDUQ&list=PLudqmkJ6JIlXS4CjSzHMXkKf01thbJT0B" %}
 
 ## Basic Tutorials
 This playlist introduces you to the fundamentals of Protobject, guiding you through the essential features and first steps. Perfect for beginners looking to explore computational thinking through hands-on activities. 

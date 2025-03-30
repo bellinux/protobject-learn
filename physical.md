@@ -22,6 +22,8 @@ This allows you to **virtually extend Protobject** with dozens of sensors and ac
 
 The following video demonstrates how to control a **servo** using a **potentiometer** and shows the set of blocks used to program this example.  
 
+{% include video_embed.html video_id="rfaN7I_fsaQ" %}
+
 ## **ProtoRobot**  
 
 Another device within Protobject is called **ProtoRobot**. This device allows you to control a **3D-printed robot**, and, like everything in Protobject, it operates through a smartphone installed directly on the robot. ProtoRobot utilizes an **Arduino Leonardo** to control two servos that enable its movement.  
@@ -29,6 +31,8 @@ Another device within Protobject is called **ProtoRobot**. This device allows yo
 To use ProtoRobot, it is connected to the smartphone through its **USB port**. Similar to ProtoArduino, once it’s programmed with our firmware, there’s no need to install any applications on the smartphone or computer. Everything operates through the same **Protobject web interface**.  
 
 Below, there’s a video and the code for an example of using ProtoRobot, which can be controlled by tilting the smartphone. (For this purpose, the device that detects smartphone tilts is used).  
+
+{% include video_embed.html video_id="dmJY-3cZqfU" %}
 
 ## **Components**  
 

@@ -9,14 +9,48 @@ nav_order: 2
 
 {% raw %}
 
-<div style="display: flex; align-items: center; border: 0px solid #ccc; border-radius: 15px; padding: 10px; background: #eee;">
-    <a href="https://example.com/" target="_blank">
-        <img src="https://img.youtube.com/vi/SaZ4_BbYDUQ/maxresdefault.jpg" alt="Playlist Cover" style="height: 150px; object-fit: cover; border-radius: 10px; margin-right: 15px; border: 2px solid #111;">
-    </a>
-    <div style="flex: 1;">
-        <h2 style="margin: 0; font-size: 1.2em;"><a href="https://example.com/" target="_blank" style="text-decoration: none; color: inherit;">Titolo della Playlist</a></h2>
-        <p style="margin: 5px 0; color: #555;">Breve descrizione della playlist con alcuni dettagli interessanti per incuriosire l'utente.</p>
+ <div class="playlist-container">
+        <a href="https://example.com/" target="_blank">
+            <img src="https://img.youtube.com/vi/SaZ4_BbYDUQ/maxresdefault.jpg" alt="Playlist Cover" class="playlist-image">
+        </a>
+        <div class="playlist-text">
+            <h2><a href="https://example.com/" target="_blank">Titolo della Playlist</a></h2>
+            <p>Breve descrizione della playlist con alcuni dettagli interessanti per incuriosire l'utente.</p>
+        </div>
     </div>
-</div>
-
+    <style>
+        .playlist-container {
+            display: flex;
+            align-items: center;
+            border: 0px solid #ccc;
+            border-radius: 15px;
+            padding: 32px;
+            background: #eee;
+        }
+        .playlist-image {
+            height: 150px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-right: 32px;
+            border: 2px solid #111;
+        }
+        .playlist-text {
+            flex: 1;
+        }
+        .playlist-text h2 a {
+            text-decoration: none;
+            color: inherit;
+        }
+        @media (max-width: 600px) {
+            .playlist-container {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .playlist-image {
+                margin-right: 0;
+                margin-bottom: 16px;
+            }
+        }
+    </style>
 {% endraw %}

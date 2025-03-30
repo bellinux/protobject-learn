@@ -9,6 +9,8 @@ nav_order: 30
 Protobject has been primarily designed to work on smartphones **without the need for additional hardware**. However, we have developed a **physical kit** for Protobject that allows you to use the platform with an **Arduino** or a **simple robot** for those who wish to experiment with these components.  
 {: .fs-6 .fw-300 }
 
+---
+
 ## **ProtoArduino**  
 
 Protobject features a device called **ProtoArduino** that allows you to use an **Arduino Leonardo** as input and/or output by connecting it to the smartphone’s USB port. To use this device, it is necessary to **program an Arduino Leonardo** with our firmware. Once programmed, it can be used without the need to install any application on the smartphone or computer; everything works through the **Protobject web interface**.  

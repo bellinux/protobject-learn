@@ -42,7 +42,7 @@ Below, there’s a video and the code for an example of using ProtoRobot, which 
 {% include video_embed.html video_id="dmJY-3cZqfU" %}
 
 {% raw %}
-<iframe loading="lazy" src="https://app.protobject.com/generate?zz-robot2&amp;en&amp;static&amp;-0" width="100%" height="450px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+<iframe loading="lazy" src="https://app.protobject.com/generate?zz-robot2&amp;en&amp;dynamic&amp;-0" width="100%" height="550px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
 {% endraw %}
 
 

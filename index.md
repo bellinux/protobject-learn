@@ -42,18 +42,27 @@ Discover how sensors and actuators allow interaction with the environment.
 
 ---
 
-## **3\. Introduction to programming**  
-Learn basic programming concepts applied to Protobject.  
+## **3\. Introduction to Programming**  
+Explore basic programming concepts with Protobject.  
 
-- **🎥 [Programming basics](https://youtu.be/jNOGzcFMqwQ){:target="_blank"}**  
-  _Introduction with examples._  
+- **🎥 [Programming Basics](https://youtu.be/jNOGzcFMqwQ){:target="_blank"}**  
+  _An introduction with practical examples._  
 
-- **📄 [Recommended activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view){:target="_blank"}**  
-  _Learn more with Protobject._  
+- **📄 [Introductory Activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view){:target="_blank"}**  
+  _Hands-on exercises to get started with Protobject._  
 
 ---
 
-## **4\. Designing learning activities**  
+## **4\. Advancing with Programming**  
+Deepen your understanding of programming with Protobject.  
+
+- **📄 [Advanced Activities](https://docs.google.com/document/d/1AtqNtJV3o0ida4GHPO60182P1VdDvFyniwqt7761rww/view){:target="_blank"}**  
+  _Explore more complex concepts and applications._  
+
+---
+
+
+## **5\. Designing learning activities**  
 Criteria and strategies for designing effective activities with Protobject.  
 
 - **🎥 [How to design learning activities?](https://youtu.be/MAXCtU3rH0M){:target="_blank"}**  
@@ -64,7 +73,7 @@ Criteria and strategies for designing effective activities with Protobject.
 
 ---
 
-## **5\. Project-based learning**  
+## **6\. Project-based learning**  
 How to apply **PBL (Project-based learning)** in the classroom with Protobject.  
 
 - **🎥 [Introduction to PBL](https://youtu.be/u5Pi5IrDFfU){:target="_blank"}**  
@@ -84,7 +93,7 @@ How to apply **PBL (Project-based learning)** in the classroom with Protobject.
 
 ---
 
-## **6\. Summative and formative evaluation**  
+## **7\. Summative and formative evaluation**  
 Importance and strategies for evaluating learning.  
 
 - **🎥 [What is summative and formative assessment?](https://youtu.be/gJQ22n1-bsQ){:target="_blank"}**  

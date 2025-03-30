@@ -26,43 +26,75 @@ Explore the foundations of computational thinking and how Protobject facilitates
 - **📄 [The Protobject platform](https://docs.google.com/document/d/1UX0LgJSqTixAZj-8EPxnkwxHk7AjeSTgpEYgwSlgyVY/view)**  
   _Application in educational environments._  
 
-## **2\. Knowledge of sensors and actuators in smartphones**
+---
 
-Discover how sensors and actuators allow interaction with the environment.
+## **2\. Knowledge of sensors and actuators in smartphones**  
+Discover how sensors and actuators allow interaction with the environment.  
 
-**🎥[Introduction to sensors and actuators](https://youtu.be/iwlztiWB1bc)** – Extended smartphone capabilities.  
-**📄[Sensors and actuators in smartphones](https://docs.google.com/document/d/18xp73kni5kD7jLlci6ap1Q11pWbqc599CqOSqnMMqdA/view)** – Operation and applications.  
-**🎥[Components of Protobject](https://youtu.be/He9BBtYKvM8)** – (Spanish) Possibilities offered by Protobject.
+- **🎥 [Introduction to sensors and actuators](https://youtu.be/iwlztiWB1bc)**  
+  _Extended smartphone capabilities._  
 
-**3\. Introduction to programming**  
-Learn basic programming concepts applied to Protobject.
+- **📄 [Sensors and actuators in smartphones](https://docs.google.com/document/d/18xp73kni5kD7jLlci6ap1Q11pWbqc599CqOSqnMMqdA/view)**  
+  _Operation and applications._  
 
-**🎥[Programming basics](https://youtu.be/jNOGzcFMqwQ)** – Introduction with examples.  
-**📄[Recommended activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view)** – Learn more with Protobject.
+- **🎥 [Components of Protobject](https://youtu.be/He9BBtYKvM8)** _(Spanish)_  
+  _Possibilities offered by Protobject._  
 
+---
 
-## **4\. Designing learning activities**
+## **3\. Introduction to programming**  
+Learn basic programming concepts applied to Protobject.  
 
-Criteria and strategies for designing effective activities with Protobject.
+- **🎥 [Programming basics](https://youtu.be/jNOGzcFMqwQ)**  
+  _Introduction with examples._  
 
-**🎥[How to design learning activities?](https://youtu.be/MAXCtU3rH0M)** – Criteria and recommendations.  
-**📄[Structure and design of project activities](https://docs.google.com/document/d/1hq_KKXhBOAgpyXMWpM3Q1tEkq78Wzfy-rI3XJi1hye4/view)** – Guidelines for designing and using ChatGPT.
+- **📄 [Recommended activities](https://docs.google.com/document/d/1KasAXtTsb7Qb3vvbMNlQbjod6P_6gQK9VO2vQt8mBOg/view)**  
+  _Learn more with Protobject._  
 
-## **5\. Project-based learning**
+---
 
-How to apply PBL (Project-based learning) in the classroom with Protobject.
+## **4\. Designing learning activities**  
+Criteria and strategies for designing effective activities with Protobject.  
 
-**🎥[Introduction to PBL](https://youtu.be/u5Pi5IrDFfU)** – Application of PBL and its phases.  
-**📄[Project-based learning](https://docs.google.com/document/d/1tEuOpQwlc2v1xQs012C3XqIu_oql_U993d6OotxHEVM/view)** – A guide to getting started and using ChatGPT.  
-**🎥[How to encourage creativity?](https://youtu.be/o1PnRryVOAc)** – Tips for developing more creative projects.  
-**📄[Promote creative solutions in the classroom](https://docs.google.com/document/d/1L5DcmgAGwwWLyzUKG-4jhdk7lqN0JqXdvBC3xWctxAY/view)** – A guide to promoting creativity.  
-**📄[Example of ABP with Protobject](https://docs.google.com/document/d/1L-tRl_mMC4lMXGPshoDNga3AtHsR6lQzBDKDRny15W8/view)** – 3 examples to guide you in developing PBL.
+- **🎥 [How to design learning activities?](https://youtu.be/MAXCtU3rH0M)**  
+  _Criteria and recommendations._  
 
-## **6\. Summative and formative evaluation**
+- **📄 [Structure and design of project activities](https://docs.google.com/document/d/1hq_KKXhBOAgpyXMWpM3Q1tEkq78Wzfy-rI3XJi1hye4/view)**  
+  _Guidelines for designing and using ChatGPT._  
 
-Importance and strategies for evaluating learning.
+---
 
-**🎥[What is summative and formative assessment?](https://youtu.be/gJQ22n1-bsQ)** – The relevance of formative evaluation.  
-**📄[Summative and formative evaluation](https://docs.google.com/document/d/1ObwJCLWMwSiGk8nvPrceAWtL6mbALDE37XJJFayOVBs/view)** – A guide for teachers.  
-**🎥[Using Google Forms for ratings](https://youtu.be/0pOsagYH8y0)** – (Spanish) A practical approach.  
-**📄[Creating assessment questions](https://docs.google.com/document/d/1HJHTyD5Tf1LSCMjZAAaUeibXx58q8W6BOGWqpNSUosM/view)** – Strategies for using ChatGPT.
+## **5\. Project-based learning**  
+How to apply **PBL (Project-based learning)** in the classroom with Protobject.  
+
+- **🎥 [Introduction to PBL](https://youtu.be/u5Pi5IrDFfU)**  
+  _Application of PBL and its phases._  
+
+- **📄 [Project-based learning](https://docs.google.com/document/d/1tEuOpQwlc2v1xQs012C3XqIu_oql_U993d6OotxHEVM/view)**  
+  _A guide to getting started and using ChatGPT._  
+
+- **🎥 [How to encourage creativity?](https://youtu.be/o1PnRryVOAc)**  
+  _Tips for developing more creative projects._  
+
+- **📄 [Promote creative solutions in the classroom](https://docs.google.com/document/d/1L5DcmgAGwwWLyzUKG-4jhdk7lqN0JqXdvBC3xWctxAY/view)**  
+  _A guide to promoting creativity._  
+
+- **📄 [Example of PBL with Protobject](https://docs.google.com/document/d/1L-tRl_mMC4lMXGPshoDNga3AtHsR6lQzBDKDRny15W8/view)**  
+  _3 examples to guide you in developing PBL._  
+
+---
+
+## **6\. Summative and formative evaluation**  
+Importance and strategies for evaluating learning.  
+
+- **🎥 [What is summative and formative assessment?](https://youtu.be/gJQ22n1-bsQ)**  
+  _The relevance of formative evaluation._  
+
+- **📄 [Summative and formative evaluation](https://docs.google.com/document/d/1ObwJCLWMwSiGk8nvPrceAWtL6mbALDE37XJJFayOVBs/view)**  
+  _A guide for teachers._  
+
+- **🎥 [Using Google Forms for ratings](https://youtu.be/0pOsagYH8y0)** _(Spanish)_  
+  _A practical approach._  
+
+- **📄 [Creating assessment questions](https://docs.google.com/document/d/1HJHTyD5Tf1LSCMjZAAaUeibXx58q8W6BOGWqpNSUosM/view)**  
+  _Strategies for using ChatGPT._  

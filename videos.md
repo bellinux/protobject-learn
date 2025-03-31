@@ -18,8 +18,8 @@ playlist_link_left="https://www.youtube.com/watch?v=SaZ4_BbYDUQ&list=PLudqmkJ6JI
 title_left="Basic Tutorials"
 desc_left="This playlist introduces you to the fundamentals of Protobject, guiding you through the essential features and first steps. Perfect for beginners looking to explore computational thinking through hands-on activities."
 
-preview_video_id_right="gJQ22n1-bsQ" 
-playlist_link_right="https://www.youtube.com/watch?v=gJQ22n1-bsQ&list=PLudqmkJ6JIlWE9lODm8sl2fAlvCrN0WxO"
+preview_video_id_right="9Z_KCiG3Bug" 
+playlist_link_right="https://www.youtube.com/watch?v=9Z_KCiG3Bug&list=PLudqmkJ6JIlWE9lODm8sl2fAlvCrN0WxO"
 title_right="Computational Thinking for Teachers"
 desc_right="Explore computational thinking and discover how Protobject facilitates its teaching through programming, sensors, and project-based learning."
 %}

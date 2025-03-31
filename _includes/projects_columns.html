@@ -1,0 +1,43 @@
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+
+      <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
+            <a href="{{ include.link_left }}" target="_blank" style="display: block; position: relative;">
+                <img src="{{ include.img_left }}" alt="Instructable preview" style="display: block; width: 100%; height: auto;">
+                <div class="overlay">
+                    <svg viewBox="0 0 100 100" class="open-page-icon"> 
+                      <circle cx="45" cy="45" r="10" stroke="white" stroke-width="4" fill="none"></circle> 
+                      <line x1="52" y1="52" x2="65" y2="65" stroke="white" stroke-width="4" stroke-linecap="round"></line> 
+                    </svg>
+
+                </div>
+            </a>
+        </div>
+      
+    <h2>{{ include.title_left }}</h2>
+    <p>{{ include.desc_left }}</p>
+  </div>
+
+ 
+  
+  <div style="flex: 1; min-width: 300px;">
+   {% if include.link_right %}
+            <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
+            <a href="{{ include.link_right }}" target="_blank" style="display: block; position: relative;">
+                <img src="{{ include.img_right }}" alt="Video preview" style="display: block; width: 100%; height: auto;">
+                <div class="overlay">
+                    <svg viewBox="0 0 100 100" class="open-page-icon"> 
+                      <circle cx="45" cy="45" r="10" stroke="white" stroke-width="4" fill="none"></circle> 
+                      <line x1="52" y1="52" x2="65" y2="65" stroke="white" stroke-width="4" stroke-linecap="round"></line> 
+                    </svg>
+                </div>
+            </a>
+        </div>
+
+    <h2>{{ include.title_right }}</h2>
+    <p>{{ include.desc_right }}</p>
+
+    {% endif %}
+  </div>
+    
+</div>
